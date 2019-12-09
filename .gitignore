@@ -2,4 +2,6 @@
 .gradle
 build
 target
-streamexcept.i*
+*.iml
+*.ipr
+*.iws
